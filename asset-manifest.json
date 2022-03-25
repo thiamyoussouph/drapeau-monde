@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/drapeau-monde/static/css/main.a0fc9216.css",
+    "main.js": "/drapeau-monde/static/js/main.39cf1324.js",
+    "static/media/main.jpg": "/drapeau-monde/static/media/main.516fbcd135926107480c.jpg",
+    "index.html": "/drapeau-monde/index.html",
+    "main.a0fc9216.css.map": "/drapeau-monde/static/css/main.a0fc9216.css.map",
+    "main.39cf1324.js.map": "/drapeau-monde/static/js/main.39cf1324.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0fc9216.css",
+    "static/js/main.39cf1324.js"
+  ]
+}
